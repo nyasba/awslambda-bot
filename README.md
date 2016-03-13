@@ -1,2 +1,2 @@
-# awslambda-bot
-AwsLambdaで動かすChatworkBot（Python）
+# AWS LambdaでChatwork通知するbotを作ってみた
+
